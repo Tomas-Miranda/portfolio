@@ -24,16 +24,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" aria-current="page" href="index.html">Inicio</a>
+                            <a class="nav-link px-4 py-1" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1 active" href="sobre-mi.html">Sobre mi</a>
+                            <a class="nav-link px-4 py-1 active" href="sobre-mi.php">Sobre mi</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link px-4 py-1" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 py-1" href="contacto.html">Contacto</a>
+                            <a class="nav-link px-4 py-1" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-flex">
@@ -170,11 +170,11 @@
                         <div class="col-12- col-sm-10 p-3">
                             <h3 class="formaciont">Secundario Completo</h3>
                             <h4>Escuela EES 64</h4>
-                            <h5>2012 – 2018</h5>                          
+                            <h5>2012 – 2018</h5>
                         </div>
                     </div>
                 </div>
-                
+
             </div>
             </div>
         </section>
@@ -239,9 +239,9 @@
         <div class="row">
             <div class="col-12 col-sm-3">
                 <a href="https://github.com" title="github">
-                <i class="fa-brands fa-github"></i></a>
+                    <i class="fa-brands fa-github"></i></a>
                 <a href="https://www.linkedin.com/in/tomas-miranda-a87544238/">
-                <i class="fa-brands fa-linkedin-in"></i></a>
+                    <i class="fa-brands fa-linkedin-in"></i></a>
             </div>
             <div class="col-12 col-sm-3">Sponsor <a href="http://depcsuite.com">DePc Suite</a></div>
             <div class="col-12 col-sm-3"><a href="mailto:TomasNMiranda15@gmail.com">TomasNMiranda15@gmail.com</a></div>
